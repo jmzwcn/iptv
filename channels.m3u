@@ -34,8 +34,7 @@ http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8
 #http://61.160.152.55/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"   group-title="央視",CCTV-2 财经
-#http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視",CCTV-3 综艺
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視",CCTV-4 中文国际
